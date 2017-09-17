@@ -1,0 +1,18 @@
+1. __init__()
+构造函数或初始化方法
+
+2. self 
+self 代表类的实例，self 在定义类的方法时是必须有的，虽然在调用时不必传入相应的参数
+
+3. get\set方法
+getattr(obj, name[, default]) : 访问对象的属性。
+hasattr(obj,name) : 检查是否存在一个属性。
+setattr(obj,name,value) : 设置一个属性。如果属性不存在，会创建一个新属性。
+delattr(obj, name) : 删除属性
+
+4. __del__
+在对象销毁的时候被调用
+
+5. 继承 
+继承语法 class 派生类名（基类名）
+

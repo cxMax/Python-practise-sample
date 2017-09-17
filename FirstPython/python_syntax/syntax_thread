@@ -1,0 +1,8 @@
+1. 多线程创建方式 
+thread / threading
+
+2. 线程同步
+使用Thread对象的Lock和Rlock可以实现简单的线程同步
+
+3. 线程队列
+包括FIFO（先入先出)队列Queue，LIFO（后入先出）队列LifoQueue，和优先级队列PriorityQueue

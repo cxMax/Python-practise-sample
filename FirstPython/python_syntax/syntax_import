@@ -1,0 +1,9 @@
+1. import 模块的引入
+语法 : import module1
+
+2. From…import 引入指定模块的指定方法
+语法 : from modname import name
+
+3. From…import* 
+导入模块下, 所有的函数
+

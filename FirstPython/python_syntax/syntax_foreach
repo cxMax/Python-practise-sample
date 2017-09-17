@@ -1,0 +1,7 @@
+1. foreach
+continue 语句跳出本次循环
+break跳出整个循环
+
+2. pass
+pass是空语句
+pass 不做任何事情，一般用做占位语句
